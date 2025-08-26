@@ -1,0 +1,22 @@
+Column Name||DataType||Values||Default value
+Workspace_Name||Single line text||||
+Workspace_Owner||People picker||||
+Ensure_Workspace_Segregation||Yes/No||||Yes
+Identity_Champion||People picker||||
+NoOfReports||Single line text||||
+NoOfSemanticModels||Single line text||||
+NoOfDashboards||Single line text||||
+NoOfDataflows||Single line text||||
+NoOfNotebooks||Single line text||||
+NoOfPipelines||Single line text||||
+NoOfLakehouses||Single line text||||
+NoOfWarehouses||Single line text||||
+Others||Single line text||||
+Review_Dataset_Model_Sizes||Single line text||||
+Review_Refresh_Frequencies||Single line text||||
+Identity_Fabric_Features||Multiline text||||
+Review_Workspace_Capacity_Metrics||Single line text||||
+Approver1||People picker||||
+Approver2||People picker||||
+Status||Choice||Draft,Submitted,PendingwithApprove1||
+RequestedDate||DateTime||||
